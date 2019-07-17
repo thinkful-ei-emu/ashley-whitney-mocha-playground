@@ -1,0 +1,25 @@
+{
+  "name": "ashley-whitney-mocha-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-emu/ashley-whitney-mocha-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-emu/ashley-whitney-mocha-playground/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-emu/ashley-whitney-mocha-playground#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
+  }
+}
